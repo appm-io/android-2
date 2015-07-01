@@ -69,7 +69,7 @@
                 android:layout_height="fill_parent"
                 android:layout_weight="50"
                 android:gravity="center|bottom"
-                android:text="Waiting RAM"
+                android:text=" RAM in asteptare"
                 android:textColor="#ffffffff" />
 
             <TextView
