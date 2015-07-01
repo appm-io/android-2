@@ -36,7 +36,7 @@
                 android:layout_height="fill_parent"
                 android:layout_weight="50"
                 android:gravity="center|bottom"
-                android:text="CPU Usage"
+                android:text="Waiting"
                 android:textColor="#ffffffff" />
 
             <TextView
