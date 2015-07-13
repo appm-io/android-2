@@ -149,7 +149,7 @@
                 android:layout_height="fill_parent"
                 android:layout_weight="50"
                 android:gravity="center|bottom"
-                android:text="Still Waiting"
+                android:text="Still Not Waiting"
                 android:textColor="#ffffffff" />
 
             <TextView
