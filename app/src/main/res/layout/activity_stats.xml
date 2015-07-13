@@ -100,9 +100,15 @@
             android:layout_height="fill_parent"
             android:layout_weight="100"
             android:gravity="center|bottom"
-            android:text="Load Average"
+            android:text="LOAD Average"
             android:textColor="#ffffffff"
             android:textSize="30dp" />
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="100"></FrameLayout>
 
         <TextView
             android:id="@+id/load_stats"
