@@ -8,6 +8,7 @@
     <string name="buton2">Buton2</string>
     <string name="wrap_text">Ati introdus</string>
     <string name="title_activity_stats">Stats</string>
+    <string name="title_activity_login">LoginActivity</string>
 
 
 </resources>
